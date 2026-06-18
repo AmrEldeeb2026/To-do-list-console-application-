@@ -1,0 +1,24 @@
+# To-Do List Application
+
+## Overview
+A console-based To-Do List application built with C++ to help users manage their daily tasks.
+
+Features
+- Add Tasks
+- Display Tasks
+- Delete Tasks
+- Update Task Status
+
+Technologies
+- C++
+- Object-Oriented Programming (OOP)
+simple data structure
+
+What I Learned
+- Working with functions
+- Using classes and objects
+- Organizing code into modules
+- Problem-solving skills
+
+Author
+Eng/ Amr Diab Ahmed
